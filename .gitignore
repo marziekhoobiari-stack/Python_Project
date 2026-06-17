@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+
+Advanced_Section/quarter_1.csv
+Advanced_Section/data_jobs_export.csv
